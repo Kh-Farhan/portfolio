@@ -76,7 +76,6 @@ export const content = {
       years: 4,
       commerce: ["commercetools", "Shopify B2B", "Hydrogen"],
       frameworks: ["Next.js 15", "Remix"],
-      leads: "Pakistan dev team",
       cache: "HIT",
     } as Record<string, JsonValue>,
   },
@@ -89,10 +88,10 @@ export const content = {
       names: ["Beacon Lighting", "Supagas", "Showpo", "CUE", "Ghanda", "House"],
       footnote: "ASX-listed retail · national gas distributor · DTC fashion",
     },
-    team: {
-      label: "Team lead, Pakistan",
-      items: ["Merge authority", "Tech interviews", "Onboarding devs"],
-      stamp: "LGTM",
+     team: {
+      label: "End-to-end ownership",
+      items: ["Scoping", "Building", "Shipping"],
+      stamp: "SHIP",
     },
   },
 
@@ -151,7 +150,7 @@ export const content = {
         name: "House",
         kind: "Homewares",
         theme: "white" as CardTheme,
-        description: "Headless Shopify storefront on Next.js with SEO and Core Web Vitals work.",
+        description: "Headless Shopify storefront on Next.js with SEO and performance improvements",
         tags: ["Next.js", "Shopify"],
         href: "",
       },
@@ -232,7 +231,7 @@ export const content = {
     item: {
       name: "1× Frontend Engineer",
       status: "in stock",
-      details: ["Variant: Remote · AU hours", "Includes: Next.js, Shopify, commercetools"],
+      details: ["Variant: Remote/Onsite", "Includes: Next.js, Shopify, commercetools, Typescript"],
     },
     checkoutLabel: "Checkout → send an email",
     emailSubject: "Hello Farhan, let's talk",
